@@ -8,6 +8,7 @@ let n2 = 15
 let n3 = 11
 
 let maior = 0
+let meio = 0
 let menor = 0
 
 if (n1 > n2 && n1 > n3) {
